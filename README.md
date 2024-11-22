@@ -16,16 +16,15 @@ examples and clean implementations to help you leverage the power of STL effecti
 
 Dive into the following essential STL concepts, explored through practical examples:
 
-🔄 Iterators: Master the basics and advanced usage of iterators to traverse STL containers efficiently.
+🔹 Iterators: Master the basics and advanced usage of iterators to traverse STL containers efficiently.
 
-📦 Vectors: Learn how to manipulate vectors—resize, access, insert, and delete elements dynamically.
+🔹 Vectors: Learn how to manipulate vectors—resize, access, insert, and delete elements dynamically.
 
-🔢 Sets: Work with sets and explore set operations like insertion, deletion, and searching for unique elements.
+🔹 Sets: Work with sets and explore set operations like insertion, deletion, and searching for unique elements.
 
-💡 Pairs: Handle paired data with std::pair for optimized storage and easy access to two related values.
+🔹 Pairs: Handle paired data with std::pair for optimized storage and easy access to two related values.
 
-⚙️ Sorting Functions: Unlock STL’s built-in sorting functions and custom sorting strategies for efficient
-data sorting.
+🔹 Sorting Functions: Unlock STL’s built-in sorting functions and custom sorting strategies for efficient data sorting.
 
 
 📁 Repository Files
@@ -53,13 +52,12 @@ Understand basic vector operations like inserting, deleting, accessing, and resi
 
 💡 Why This Repository?
 
-⚡ Fast & Efficient: Learn how to use STL to write optimized, high-performance code with minimal effort.
 
-🎓 Easy-to-Follow: Each file is well-commented to guide you through the code, making complex concepts 
-simple and understandable.
+🔹 Fast & Efficient: Learn how to use STL to write optimized, high-performance code with minimal effort.
 
-📚 Practical Examples: Real-world applications like sorting, set operations, and pair management 
-demonstrate STL's power and versatility.
+🔹 Easy-to-Follow: Each file is well-commented to guide you through the code, making complex concepts simple and understandable.
+
+🔹 Practical Examples: Real-world applications like sorting, set operations, and pair management demonstrate STL's power and versatility.
 
 
 📝 Features
