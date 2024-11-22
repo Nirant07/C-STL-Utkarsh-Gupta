@@ -62,8 +62,8 @@ Understand basic vector operations like inserting, deleting, accessing, and resi
 
 📝 Features
 
-🔍 Clear Code Examples: Each code snippet comes with concise explanations to help you quickly grasp key concepts.
+🔹 Clear Code Examples: Each code snippet comes with concise explanations to help you quickly grasp key concepts.
 
-⚙️ STL Best Practices: Learn how to leverage STL for optimized, clean, and maintainable solutions.
+🔹 STL Best Practices: Learn how to leverage STL for optimized, clean, and maintainable solutions.
 
-💪 Hands-On Learning: Practical implementations allow you to learn through active coding and problem-solving.
+🔹 Hands-On Learning: Practical implementations allow you to learn through active coding and problem-solving.
