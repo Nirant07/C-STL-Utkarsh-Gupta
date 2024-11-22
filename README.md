@@ -12,19 +12,24 @@ Dive into the following essential STL concepts, explored through practical examp
 📦 Vectors: Learn how to manipulate vectors—resize, access, insert, and delete elements dynamically.
 🔢 Sets: Work with sets and explore set operations like insertion, deletion, and searching for unique elements.
 💡 Pairs: Handle paired data with std::pair for optimized storage and easy access to two related values.
-⚙️ Sorting Functions: Unlock STL’s built-in sorting functions and custom sorting strategies for efficient 
+⚙️ Sorting Functions: Unlock STL’s built-in sorting functions and custom sorting strategies for efficient.
 data sorting.
 
 📁 Repository Files
+This repository contains a variety of C++ files, each focused on a different STL concept. Here's an overview of what each file covers:
 
-Here’s a list of the core files in this repository, each tackling a different STL concept:
-File Name	What it Covers
-Iterators.cpp	How to use iterators for efficient traversal of STL containers.
-Pair_Function.cpp	Operations on std::pair—creating and manipulating pairs.
-Set.cpp	Set operations like insertion, searching, and deletion.
-Sort_Function.cpp	Implementing STL sorting functions and custom sort algorithms.
-Sorting_Pairs.cpp	Sorting pairs based on their first or second elements.
-Vectors_Basics.cpp	Basic vector operations—insert, delete, access, and resize.
+🔹 Iterators.cpp
+Learn how to use iterators for efficient traversal of STL containers.
+🔹 Pair_Function.cpp
+Explore operations on std::pair—creating and manipulating pairs to store and access related data efficiently.
+🔹 Set.cpp
+Master set operations such as insertion, searching, and deletion, using the powerful set container.
+🔹 Sort_Function.cpp
+Implement and customize STL sorting functions, learning how to sort data efficiently and apply custom sort algorithms.
+🔹 Sorting_Pairs.cpp
+Discover how to sort pairs based on the first or second element for various use cases.
+🔹 Vectors_Basics.cpp
+Understand basic vector operations like inserting, deleting, accessing, and resizing elements in vectors.
 
 💡 Why This Repository?
 ⚡ Fast & Efficient: Learn how to use STL to write optimized, high-performance code with minimal effort.
